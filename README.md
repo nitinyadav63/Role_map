@@ -122,5 +122,18 @@ npm run preview
 
 ---
 
+## 🧪 Demo Account
+
+A pre-seeded demo account is available for quick testing — no sign-up required:
+
+| Field | Value |
+| :--- | :--- |
+| **Email** | `demouser01@gmail.com` |
+| **Password** | `Pass1234` |
+
+> Log in at the app's auth screen with the credentials above to explore a pre-existing roadmap session.
+
+---
+
 ## 📜 License
 This project is open-source and available under the [MIT License](LICENSE).
