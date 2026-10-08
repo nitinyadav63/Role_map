@@ -102,16 +102,11 @@ npm install
 ```
 
 ### 2. Configure Environment Variables
-Copy `.env.example` to `.env`:
+Copy `.env.example` to `.env` and fill in your credentials:
 ```bash
 cp .env.example .env
 ```
-Add your Gemini and Supabase credentials:
-```env
-GEMINI_API_KEY=your_google_gemini_api_key_here
-VITE_SUPABASE_URL=https://your-project-id.supabase.co
-VITE_SUPABASE_ANON_KEY=your_supabase_anon_public_key_here
-```
+Refer to `.env.example` for the required variables.
 
 ### 3. Start Development Server
 ```bash
